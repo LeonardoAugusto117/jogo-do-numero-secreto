@@ -29,6 +29,7 @@ JavaScript
 📌 Objetivo do Projeto
 Consolidar conhecimentos em JavaScript, abordando conceitos como funções, condicionais, arrays, manipulação do DOM, geração de números aleatórios e experiência do usuário.
 
-https://jogo-six-jade-94.vercel.app/
 
-*Link para acessar o jogo*
+
+# Link para acessar o jogo
+https://jogo-six-jade-94.vercel.app/
