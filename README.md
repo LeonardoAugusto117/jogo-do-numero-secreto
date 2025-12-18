@@ -1,4 +1,4 @@
-🎯 #Jogo do Número Secreto
+🎯 Jogo do Número Secreto
 
 Projeto desenvolvido com HTML, CSS e JavaScript, com foco no aprimoramento da lógica de programação e na interação dinâmica com o usuário.
 
